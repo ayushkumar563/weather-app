@@ -1,10 +1,10 @@
 # Weather App
 
 ## Description
-A clean, modern, and dynamic weather application that provides real-time weather updates based on city name. It uses the free Open-Meteo API to fetch both geocoding data and current weather conditions. 
+A clean, modern, and dynamic weather application that provides real-time weather updates based on city name. It uses the free Open-Meteo API to fetch both geocoding data and current weather conditions.
 
 ## Live Demo
-[Live Demo Link](#) *(Replace with actual GitHub Pages or Netlify link once deployed)*
+[Live Demo Link](https://ayushkumar563.github.io/weather-app/) *(Deployed on GitHub Pages)*
 
 ## Tech Stack
 - **HTML5**
@@ -18,3 +18,6 @@ Since this is a fully static project with no backend server dependencies:
 2. Navigate to the `weather-app/` directory.
 3. Simply double-click on `index.html` to open it in your default web browser.
 4. (Optional) Deploy directly to static hosting platforms like GitHub Pages or Netlify.
+
+## Deployment
+This project is automatically deployed to GitHub Pages. Visit the [live demo](https://ayushkumar563.github.io/weather-app/) to see it in action.
