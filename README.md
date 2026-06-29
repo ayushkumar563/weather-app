@@ -6,6 +6,8 @@ A clean, modern, and dynamic weather application that provides real-time weather
 ## Live Demo
 [Live Demo Link](https://ayushkumar563.github.io/weather-app/) *(Deployed on GitHub Pages)*
 
+![App Screenshot](screenshot.png)
+
 ## Tech Stack
 - **HTML5**
 - **CSS3** (Vanilla CSS with custom properties and animations)
